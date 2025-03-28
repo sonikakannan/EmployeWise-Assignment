@@ -21,8 +21,8 @@ This project is a **User Management System** built with React that allows users 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/user-management.git
-   cd user-management
+   git clone [https://github.com/sonikakannan/EmployeWise-Assignment.git]
+   cd EmployWise-Assignment
    ```
 2. Install dependencies:
    ```sh
