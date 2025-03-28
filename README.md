@@ -21,8 +21,8 @@ This project is a **User Management System** built with React that allows users 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/sonikakannan/EmployeWise-Assignment.git]
-   cd EmployWise-Assignment
+   git clone (https://github.com/sonikakannan/EmployeWise-Assignment.git)
+   cd employwise-assignment
    ```
 2. Install dependencies:
    ```sh
@@ -66,8 +66,9 @@ https://reqres.in/api/users?page={page}&per_page=3
 - **Logout**: Click the logout button to return to the home page.
 
 ## Screenshots
-![User List Screenshot](https://via.placeholder.com/600x300?text=User+List)
-![Edit Modal Screenshot](https://via.placeholder.com/600x300?text=Edit+Modal)
+![Login Screenshot](public/employeWise-screenshot-1.png)
+![User List Screenshot](public/employeWise-screenshot-2.png)
+![Edit Modal Screenshot](public/employeWise-screenshot-3.png)
 
 ## Dependencies
 - React
