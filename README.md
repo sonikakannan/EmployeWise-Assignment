@@ -66,7 +66,7 @@ https://reqres.in/api/users?page={page}&per_page=3
 - **Logout**: Click the logout button to return to the home page.
 
 ## Screenshots
-![Login Screenshot](https://drive.google.com/file/d/1slRLGJG7TPl-XMT_HkAw4ChLCLYjcFOP/view?usp=sharing)
+![Login Screenshot](public/employeWise-screenshot-1.png)
 ![User List Screenshot](public/employeWise-screenshot-2.png)
 ![Edit Modal Screenshot](public/employeWise-screenshot-3.png)
 
